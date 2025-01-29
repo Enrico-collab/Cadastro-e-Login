@@ -15,7 +15,7 @@ O objetivo do site é demonstrar como utilizei essas tecnologias para criar pág
 **Responsividade e Design Adaptável**: O site se ajusta automaticamente a diferentes tamanhos de tela, proporcionando uma experiência otimizada em dispositivos móveis e desktops.<br><br>
 
 ## Acesse o projeto através do link:
-
+https://enrico-collab.github.io/Cadastro-e-Login/
 
 ## Como rodar o projeto
 1. Clone o repositório:<br>
@@ -52,6 +52,7 @@ The goal of the site is to demonstrate how I used these technologies to create f
 **Responsiveness and Adaptive Design**: The site automatically adjusts to different screen sizes, providing an optimized experience on both mobile devices and desktops.
 
 ## Access the project via the link:
+https://enrico-collab.github.io/Cadastro-e-Login/
 
 ## How to Run the Project:
 1. Clone the repository:<br>
